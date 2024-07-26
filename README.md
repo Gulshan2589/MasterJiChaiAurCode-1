@@ -22,7 +22,7 @@ Welcome to the Matser Ji (Chai Aur Code) Assignment1 project, a comprehensive we
 
 ## Demo
 
-https://master-ji-chai-aur-code-1-ctn2.vercel.app/
+https://master-ji-chai-aur-code-1.vercel.app/
 
 ## Installation
 
